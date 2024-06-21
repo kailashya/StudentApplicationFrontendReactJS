@@ -1,0 +1,125 @@
+.password-input-group {
+    position: relative;
+}
+
+.password-input-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.password-toggle-icon {
+    cursor: pointer;
+    position: absolute;
+    right: 10px;
+}
+
+
+/* 
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-form {
+    width: 400px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.password-toggle-icon {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+/* .login-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-size: cover;
+    background-position: right;
+    overflow: hidden;
+    background-image: url('C:\Users\Yandrapu kailash\Downloads\login page.jpg');
+}
+
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(19, 36, 230, 0.5);
+}
+
+.login-form {
+    width: 400px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px;
+    backdrop-filter: blur(10px);
+    border: none;
+    margin-top: 50px;
+}
+
+.password-toggle-icon {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    cursor: pointer;
+    color: #999;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.button-container button {
+    width: 48%;
+}
+
+.button-container button:hover {
+    opacity: 0.8;
+}
+
+.form-control {
+    background-color: transparent;
+    border: none;
+    border-radius: 0;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 20px;
+    outline: none;
+    padding: 10px;
+    transition: border-color 0.3s ease;
+}
+
+.form-control::placeholder {
+    color: rgba(17, 208, 68, 0.7);
+}
+
+.form-label {
+    background-color: rgba(239, 14, 14, 0.882);
+}
+
+.form-control:focus {
+    outline: none;
+    background-color: blue;
+}
+
+.password-toggle-icon {
+    position: absolute;
+    top: 50%;
+    right: 15px;
+    transform: translateY(-50%);
+    cursor: pointer;
+} */
